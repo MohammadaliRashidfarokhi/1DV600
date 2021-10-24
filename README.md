@@ -1,4 +1,3 @@
 # 1DV600
-Implementing hangman along with its design such as class diagram, use case, and state machine.
+Implementing hangman Game along with the design documents such as class diagram, use case, and state machine.
 
-Assignment 1, 2, and 3 have been pushed.
