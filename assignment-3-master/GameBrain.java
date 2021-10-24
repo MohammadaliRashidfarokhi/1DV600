@@ -1,3 +1,4 @@
+//The next iteration will be the final iteration and some new functions will be added to the Game.
 package Assingment3;
 
 import java.util.Scanner;
